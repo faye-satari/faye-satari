@@ -118,6 +118,17 @@ enterprise data systems, IoT / IoMT, 5G, and software engineering practices.
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
 [![Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365/visio/flowchart-software)
 
+
+## Certifications & Credentials
+
+[![Google Associate Cloud Engineer](https://img.shields.io/badge/Google-Associate%20Cloud%20Engineer%20(2026)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/b65fe6ee-3abf-404c-8511-f22dade33c07)
+
+[![CodeSignal Front-End Engineering with React](https://img.shields.io/badge/CodeSignal-Front--End%20Engineering%20with%20React%20(2025)-1062FB?style=for-the-badge)](https://codesignal.com/learn/certificates/cm2v6q3s7000vta97oy8o85pv/course-paths/13)
+
+[![Polytechnique Montréal Ethical Conduct for Research Involving Humans](https://img.shields.io/badge/Polytechnique%20Montr%C3%A9al-Ethical%20Conduct%20for%20Research%20Involving%20Humans%20(2021)-8B1E3F?style=for-the-badge)](https://www.larim.polymtl.ca/pages/membres-diplomes-maitrise.html)
+
+[![Hamfekr Design Thinking / User Experience Research](https://img.shields.io/badge/Hamfekr-Design%20Thinking%20%2F%20User%20Experience%20Research%20(2019)-FF6B6B?style=for-the-badge)](#)
+
 ---
 
 ## Verified Profiles & Credentials
